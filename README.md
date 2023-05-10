@@ -23,4 +23,4 @@ I love learning about a variety of topics, but the ones I´m most passionate abo
 
 #
 
-⚡ **Fun fact**: If everyone was given a corgi before boarding a plane, there´d be no need for floatation devices! (Allergy meds on standby for those who can´t handle the cuteness!) 💡
+<-- ⚡ **Fun fact**: If everyone was given a corgi before boarding a plane, there´d be no need for floatation devices! (Allergy meds on standby for those who can´t handle the cuteness!) 💡 -->
