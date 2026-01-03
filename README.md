@@ -11,7 +11,6 @@ I love learning about a variety of topics, but the ones I´m most passionate abo
 * Swift
 * SQL
 * Python
-* Microsoft Office
 
 ## Soft skills 👍
 * Creativity
