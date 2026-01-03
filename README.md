@@ -1,6 +1,6 @@
 ### Hello world 👋 
 
-I´m a third year computer science student currently enrolled at [Tecnologico de Monterrey ITESM](https://tec.mx/), living in Mexico. 
+Software Engineer experienced in building AI assisted tools, automation workflows, and modern web applications. Skilled at creating intuitive user experiences, streamlining internal operations, and developing reliable solutions. Focused on practical problem solving, clean engineering, and continuous learning across both AI and traditional software development.
 
 I love learning about a variety of topics, but the ones I´m most passionate about are **game design** 🎮 and **web development** 🌐.
 
